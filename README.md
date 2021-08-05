@@ -19,3 +19,4 @@
   <img align="center" alt="Dana-Unity" height="30" width="80" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
 </div>
   
+  ![Snake animation](https://github.com/rpdana/rpdana/blob/output/github-contribution-grid-snake.svg)
