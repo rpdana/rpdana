@@ -1,4 +1,5 @@
-<img align="right" height="200" alt="danagif" src="https://cdn.discordapp.com/attachments/836712599180935248/873087236869074944/gif.gif">
+<img align="right" height="180" alt="danagif" src="https://cdn.discordapp.com/attachments/836712599180935248/873087236869074944/gif.gif">
+
 
 ### Olá! Eu sou a Daiane, mas pode me chamar de Dana 😊
 
