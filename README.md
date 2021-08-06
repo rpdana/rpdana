@@ -5,7 +5,7 @@
 
 
 - 🎮 Hoje trabalho desenvolvendo projetos individuais de jogos mobile
-- 🎓 Graduanda em: Design de Games
+- 🎓 Cursando 5º Semestre em Design de Games 
 - 💚 UAM
 - 😉 Pronome: ela/dela
  
