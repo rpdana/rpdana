@@ -4,7 +4,6 @@
 ### Olá! Eu sou a Daiane, mas pode me chamar de Dana 😊
 
 
-- 🎮 Hoje trabalho desenvolvendo jogos mobile
 - 🎓 Cursando 5º Semestre em Design de Games 
 - 💚 UAM
 - 😉 Pronome: ela/dela
