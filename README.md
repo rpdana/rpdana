@@ -9,31 +9,33 @@
 - 💚 UAM
 - 😉 Pronome: ela/dela
 <br> 
- <body >
-      <a href="https://danarodrigues.wixsite.com/rpdana">
-         <img align="right" alt="Site" src="https://cdn.discordapp.com/attachments/836712599180935248/983117882567307364/unknown.png"
-         width=30" height="30" >
+   <body>
+      <a href="https://www.artstation.com/rpdana94">
+         <img align="right" alt="Artstation" src="https://cdn.discordapp.com/attachments/836712599180935248/983119172508741723/unknown.png"
+         width=30" height="30">
       </a>
-   </body>
+   </body> 
+   
    <body>
       <a href="https://www.instagram.com/rpdana_/">
          <img align="right" alt="Instagram" src="https://cdn.discordapp.com/attachments/836712599180935248/983117007748747354/unknown.png"
          width=30" height="30">
       </a>
-   </body>
- 
+   </body>  
+  
    <body>
       <a href="https://www.linkedin.com/in/daiane-rodrigues-131807140/">
          <img align="right" alt="LinkedIn" src="https://cdn.discordapp.com/attachments/836712599180935248/983118329256484944/unknown.png"
          width=30" height="30">
       </a>
-   </body>     
-   <body>
-      <a href="https://www.artstation.com/rpdana94">
-         <img align="right" alt="LinkedIn" src="https://cdn.discordapp.com/attachments/836712599180935248/983119172508741723/unknown.png"
-         width=30" height="30">
+   </body>  
+                              
+   <body >
+      <a href="https://danarodrigues.wixsite.com/rpdana">
+         <img align="right" alt="Site" src="https://cdn.discordapp.com/attachments/836712599180935248/983117882567307364/unknown.png"
+         width=30" height="30" >
       </a>
-   </body> 
+   </body>
   </br>
   
 __________________________________________________________________________________________________
