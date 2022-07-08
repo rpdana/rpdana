@@ -5,7 +5,7 @@
 ### Olá! Eu sou a Daiane, mas pode me chamar de Dana 😊
 
 
-- 🎓 Cursando 6º Semestre em Design de Games 
+- 🎓 Cursando 7º Semestre em Design de Games 
 - 💚 UAM
 - 😉 Pronome: ela/dela
 <br> 
@@ -66,7 +66,9 @@ ________________________________________________________________________________
 </div>
 
 __________________________________________________________________________________________________
+<div>
 
 ### Commits:
   
   ![Snake animation](https://github.com/rpdana/rpdana/blob/output/github-contribution-grid-snake.svg)
+</div>
