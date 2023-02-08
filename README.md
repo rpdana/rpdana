@@ -5,7 +5,7 @@
 ### Olá! Eu sou a Daiane, mas pode me chamar de Dana 😊
 
 
-- 🎓 Cursando 7º Semestre em Design de Games 
+- 🎓 Cursando 8º Semestre em Design de Games 
 - 💚 UAM
 - 😉 Pronome: ela/dela
 <br> 
